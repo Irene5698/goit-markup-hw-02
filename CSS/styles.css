@@ -1,0 +1,104 @@
+/* Колір основного тексту 
+#000000*/
+/* Другий колір 
+#757575
+#FFFFFF */
+/* Акцент #2196F3*/
+/* Основний колір фону #FFFFFF*/
+/* Другий колір фону #F5F4FA*/
+
+
+body {
+    color: #757575;
+    background-color: #FFFFFF;   
+
+/*page-header */
+ 
+.page-header {
+    background-color: #FFFFFF;
+}
+
+/* site-nav */
+}
+.logo {
+    color: #000000;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.site-studio {
+    color: #2196F3;
+}
+.site-studio:active {
+color: #0e2232;
+}
+.site-portfolio {
+    color: #212121;
+}
+.site-contacts {
+    color: #212121;
+}
+.site-mail {
+    color: #2196F3;
+}
+.site-mail:hover,
+.site-mail:focus {
+    color: tomato;
+}
+.site-tel {
+    color: #757575;
+}
+/* hero */
+.hero {
+    background-color: #2F303A;
+}
+.hero-title {
+    color: #FFFFFF;
+}
+/* button */
+.button {
+    color: #FFFFFF;
+    background-color: #2196F3;
+    }
+
+/* section */
+
+.section-title {
+    color: #212121;
+}
+
+/* features */
+
+.feature-list .title {
+    color: #212121;
+}
+
+/* team */
+.team .title {
+    color: #212121;
+}
+
+.our-team {
+    background-color: #F5F4FA;
+}
+
+/* Footer */
+
+footer {
+    background-color: #2F303A;
+}
+.footer-logo {
+    color: #FFFFFF;
+}
+.footer-links-address {
+    color: #FFFFFF;
+}
+.footer-links-mail {
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-links-tel {
+    color: rgba(255, 255, 255, 0.6);
+}
