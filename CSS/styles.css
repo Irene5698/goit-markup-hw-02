@@ -9,17 +9,15 @@
 
 
 body {
-    color: #757575;
-    background-color: #FFFFFF;   
-
+    color: #757575;  
+}
 /*page-header */
  
 .page-header {
-    background-color: #FFFFFF;
+   
 }
 
 /* site-nav */
-}
 .logo {
     color: #000000;
 }
@@ -30,10 +28,10 @@ a {
     text-decoration: none;
 }
 .site-studio {
-    color: #2196F3;
+    color: #212121;
 }
 .site-studio:active {
-color: #0e2232;
+    color: #0e2232;
 }
 .site-portfolio {
     color: #212121;
@@ -102,3 +100,6 @@ footer {
 .footer-links-tel {
     color: rgba(255, 255, 255, 0.6);
 }
+
+/* Стилі для Портфоліо */
+
