@@ -206,3 +206,43 @@ footer {
   letter-spacing: 0.03em;
   color: var(--white-text-color);
 }
+
+/* Оформлення стилів для Portfolio*/
+
+/* Buttons */
+
+.section-portfolio .button {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: calc(26 / 16);
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--main-text-color);
+  background-color: var(--grey-background-color);
+}
+
+.section-portfolio .button:hover,
+.section-portfolio .button:focus {
+  color: var(--accent-text-color);
+}
+
+.section-portfolio .title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: calc(36 / 18);
+  letter-spacing: 0.06em;
+  color: var(--main-text-color);
+}
+.section-portfolio .text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: calc(30 / 16);
+  letter-spacing: 0.03em;
+  color: var(--grey-text-color);
+}
+
+.section-portfolio .list-item-images {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+}
